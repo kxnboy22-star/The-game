@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.papergame.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "DispenserBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
